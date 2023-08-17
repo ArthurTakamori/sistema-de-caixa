@@ -1,8 +1,8 @@
-Sistema de Caixa de Supermercado
-
-<h1 align="center"> Seleção dos itens e preço final </h1>
-<p align="center">
+<h1 align="center">Sistema de Caixa de Supermercado</h1>
+<h2 align="center"> Seleção dos itens e preço final </h1>
+<p inline>
   <img loading="progress" src="https://img.shields.io/badge/work-in_progress-yellow"/>
+  <img loading="release" src="https://img.shields.io/badge/release-date_september-blue"/>
 </p>
 
 npm install Python
